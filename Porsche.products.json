@@ -1,0 +1,231 @@
+[{
+  "_id": {
+    "$oid": "662a6965e9713a78ab291410"
+  },
+  "name": "Porsche Cayenne",
+  "description": "Luxury SUV from Porsche.",
+  "price": 100000,
+  "stock": 5
+},
+{
+  "_id": {
+    "$oid": "662a6965e9713a78ab291411"
+  },
+  "name": "Porsche Panamera",
+  "description": "Luxury sedan from Porsche.",
+  "price": 120000,
+  "stock": 2
+},
+{
+  "_id": {
+    "$oid": "662a6965e9713a78ab291412"
+  },
+  "name": "Porsche Boxster",
+  "description": "Mid-engine sports car from Porsche.",
+  "price": 80000,
+  "stock": 4
+},
+{
+  "_id": {
+    "$oid": "662a6965e9713a78ab291413"
+  },
+  "name": "Porsche Macan",
+  "description": "Compact luxury SUV from Porsche.",
+  "price": 90000,
+  "stock": 6
+},
+{
+  "_id": {
+    "$oid": "662a6965e9713a78ab291414"
+  },
+  "name": "Porsche 911 Carrera",
+  "description": "Iconic sports car from Porsche.",
+  "price": 160000,
+  "stock": 3
+},
+{
+  "_id": {
+    "$oid": "662a6965e9713a78ab291415"
+  },
+  "name": "Porsche Taycan",
+  "description": "All-electric sports car from Porsche.",
+  "price": 150000,
+  "stock": 1
+},
+{
+  "_id": {
+    "$oid": "662a6965e9713a78ab291416"
+  },
+  "name": "Porsche 718 Cayman",
+  "description": "Mid-engine sports car from Porsche.",
+  "price": 85000,
+  "stock": 5
+},
+{
+  "_id": {
+    "$oid": "662a6965e9713a78ab291417"
+  },
+  "name": "Porsche 718 Boxster",
+  "description": "Mid-engine sports car from Porsche.",
+  "price": 90000,
+  "stock": 4
+},
+{
+  "_id": {
+    "$oid": "662a6965e9713a78ab291418"
+  },
+  "name": "Porsche 911 GT3",
+  "description": "High-performance sports car from Porsche.",
+  "price": 200000,
+  "stock": 2
+},
+{
+  "_id": {
+    "$oid": "662a6965e9713a78ab291419"
+  },
+  "name": "Porsche Cayman GT4",
+  "description": "High-performance sports car from Porsche.",
+  "price": 175000,
+  "stock": 2
+},
+{
+  "_id": {
+    "$oid": "662a6965e9713a78ab29141a"
+  },
+  "name": "Porsche 911 Targa",
+  "description": "Iconic sports car from Porsche.",
+  "price": 185000,
+  "stock": 3
+},
+{
+  "_id": {
+    "$oid": "662a6965e9713a78ab29141b"
+  },
+  "name": "Porsche Macan S",
+  "description": "Luxury compact SUV from Porsche.",
+  "price": 95000,
+  "stock": 4
+},
+{
+  "_id": {
+    "$oid": "662a6965e9713a78ab29141c"
+  },
+  "name": "Porsche 911 Carrera 4S",
+  "description": "Iconic sports car from Porsche.",
+  "price": 170000,
+  "stock": 3
+},
+{
+  "_id": {
+    "$oid": "662a6965e9713a78ab29141d"
+  },
+  "name": "Porsche Cayenne Turbo",
+  "description": "High-performance luxury SUV from Porsche.",
+  "price": 180000,
+  "stock": 2
+},
+{
+  "_id": {
+    "$oid": "662a6965e9713a78ab29141e"
+  },
+  "name": "Porsche Panamera Turbo S",
+  "description": "Luxury sedan from Porsche with high performance.",
+  "price": 220000,
+  "stock": 1
+},
+{
+  "_id": {
+    "$oid": "662a6965e9713a78ab29141f"
+  },
+  "name": "Porsche 911 Turbo S",
+  "description": "High-performance sports car from Porsche.",
+  "price": 220000,
+  "stock": 2
+},
+{
+  "_id": {
+    "$oid": "662a6965e9713a78ab291420"
+  },
+  "name": "Porsche 718 Spyder",
+  "description": "High-performance sports car from Porsche.",
+  "price": 190000,
+  "stock": 2
+},
+{
+  "_id": {
+    "$oid": "662a6965e9713a78ab291421"
+  },
+  "name": "Porsche Macan GTS",
+  "description": "Luxury compact SUV from Porsche with high performance.",
+  "price": 110000,
+  "stock": 3
+},
+{
+  "_id": {
+    "$oid": "662a6965e9713a78ab291422"
+  },
+  "name": "Porsche Cayenne GTS",
+  "description": "High-performance luxury SUV from Porsche.",
+  "price": 170000,
+  "stock": 2
+},
+{
+  "_id": {
+    "$oid": "662b28421d5003421723eeb2"
+  },
+  "name": "Welo's prosche",
+  "description": "Made bec he has blue eyes",
+  "price": 1500,
+  "stock": 30,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "662b2a857c08d438c392319e"
+  },
+  "name": "5ames bond",
+  "description": "Sports car",
+  "price": 1020,
+  "stock": 50,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "662b2b005ac005c674893feb"
+  },
+  "name": "5ames bond",
+  "description": "Sports car",
+  "price": 1020,
+  "stock": 50,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "662b2bb85ac005c674893fed"
+  },
+  "name": "5ames bond",
+  "description": "Sports car",
+  "price": 1020,
+  "stock": 50,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "662b2e089a8693f09b731d07"
+  },
+  "name": "big bond",
+  "description": "sss car",
+  "price": 101210,
+  "stock": 50,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "662b598e2111417ff5af5035"
+  },
+  "name": "5ames's prosche",
+  "description": "Made for sama7",
+  "price": 1500,
+  "stock": 30,
+  "__v": 0
+}]

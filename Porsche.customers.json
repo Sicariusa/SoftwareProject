@@ -1,0 +1,242 @@
+[
+  {
+    "_id": {
+      "$oid": "662a6942e9713a78ab2913fa"
+    },
+    "first_name": "Big",
+    "last_name": "Chungus",
+    "email": "big.chungus@example.com",
+    "address": "123 Meme St, Memeland",
+    "password": "your_password_here",
+    "wallet": 17644,
+    "shoppingCart": []
+  },
+  {
+    "_id": {
+      "$oid": "662a6942e9713a78ab2913fb"
+    },
+    "first_name": "Sanic",
+    "last_name": "Hegehog",
+    "email": "sanic.hegehog@example.com",
+    "address": "456 Fast Lane, Speed City",
+    "password": "your_password_here",
+    "wallet": 75709,
+    "shoppingCart": []
+  },
+  {
+    "_id": {
+      "$oid": "662a6942e9713a78ab2913fc"
+    },
+    "first_name": "Doge",
+    "last_name": "Wow",
+    "email": "doge.wow@example.com",
+    "address": "789 Meme Ave, Dogeland",
+    "password": "your_password_here",
+    "wallet": 86237,
+    "shoppingCart": []
+  },
+  {
+    "_id": {
+      "$oid": "662a6942e9713a78ab2913fd"
+    },
+    "first_name": "Pepe",
+    "last_name": "Frog",
+    "email": "pepe.frog@example.com",
+    "address": "321 Dank Blvd, Pepeville",
+    "password": "your_password_here",
+    "wallet": 71921,
+    "shoppingCart": []
+  },
+  {
+    "_id": {
+      "$oid": "662a6942e9713a78ab2913fe"
+    },
+    "first_name": "Grumpy",
+    "last_name": "Cat",
+    "email": "grumpy.cat@example.com",
+    "address": "555 Meme Rd, Frowntown",
+    "password": "your_password_here",
+    "wallet": 98102,
+    "shoppingCart": []
+  },
+  {
+    "_id": {
+      "$oid": "662a6942e9713a78ab2913ff"
+    },
+    "first_name": "Rick",
+    "last_name": "Roll",
+    "email": "rick.roll@example.com",
+    "address": "777 Never Gonna Give You Up Ln, Troll City",
+    "password": "your_password_here",
+    "wallet": 51567,
+    "shoppingCart": []
+  },
+  {
+    "_id": {
+      "$oid": "662a6942e9713a78ab291400"
+    },
+    "first_name": "Harambe",
+    "last_name": "Gorilla",
+    "email": "harambe.gorilla@example.com",
+    "address": "999 Dicks Out Ave, Harambetown",
+    "password": "your_password_here",
+    "wallet": 61013,
+    "shoppingCart": []
+  },
+  {
+    "_id": {
+      "$oid": "662a6942e9713a78ab291401"
+    },
+    "first_name": "Nyan",
+    "last_name": "Cat",
+    "email": "nyan.cat@example.com",
+    "address": "246 Rainbow St, Pixel City",
+    "password": "your_password_here",
+    "wallet": 48951,
+    "shoppingCart": []
+  },
+  {
+    "_id": {
+      "$oid": "662a6942e9713a78ab291402"
+    },
+    "first_name": "Salt",
+    "last_name": "Bae",
+    "email": "salt.bae@example.com",
+    "address": "888 Flavor Blvd, Seasoning City",
+    "password": "your_password_here",
+    "wallet": 96752,
+    "shoppingCart": []
+  },
+  {
+    "_id": {
+      "$oid": "662a6942e9713a78ab291403"
+    },
+    "first_name": "Hide",
+    "last_name": "The Pain",
+    "email": "hide.the.pain@example.com",
+    "address": "111 Smile Ave, Stoic City",
+    "password": "your_password_here",
+    "wallet": 64872,
+    "shoppingCart": []
+  },
+  {
+    "_id": {
+      "$oid": "662a6942e9713a78ab291404"
+    },
+    "first_name": "Kermit",
+    "last_name": "Sipping Tea",
+    "email": "kermit.sipping.tea@example.com",
+    "address": "222 Muppet Ln, Green City",
+    "password": "your_password_here",
+    "wallet": 21633,
+    "shoppingCart": []
+  },
+  {
+    "_id": {
+      "$oid": "662a6942e9713a78ab291405"
+    },
+    "first_name": "Bad",
+    "last_name": "Luck Brian",
+    "email": "bad.luck.brian@example.com",
+    "address": "333 Misfortune Blvd, Unlucky City",
+    "password": "your_password_here",
+    "wallet": 24546,
+    "shoppingCart": []
+  },
+  {
+    "_id": {
+      "$oid": "662a6942e9713a78ab291406"
+    },
+    "first_name": "Good",
+    "last_name": "Guy Greg",
+    "email": "good.guy.greg@example.com",
+    "address": "444 Kindness St, Wholesome City",
+    "password": "your_password_here",
+    "wallet": 63666,
+    "shoppingCart": []
+  },
+  {
+    "_id": {
+      "$oid": "662a6942e9713a78ab291407"
+    },
+    "first_name": "Forever",
+    "last_name": "Alone",
+    "email": "forever.alone@example.com",
+    "address": "555 Single Ave, Lonely City",
+    "password": "your_password_here",
+    "wallet": 92616,
+    "shoppingCart": []
+  },
+  {
+    "_id": {
+      "$oid": "662a6942e9713a78ab291408"
+    },
+    "first_name": "Overly",
+    "last_name": "Attached Girlfriend",
+    "email": "overly.attached.girlfriend@example.com",
+    "address": "666 Obsession Rd, Stalker City",
+    "password": "your_password_here",
+    "wallet": 39214,
+    "shoppingCart": []
+  },
+  {
+    "_id": {
+      "$oid": "662a6942e9713a78ab291409"
+    },
+    "first_name": "Success",
+    "last_name": "Kid",
+    "email": "success.kid@example.com",
+    "address": "777 Victory Blvd, Achievement City",
+    "password": "your_password_here",
+    "wallet": 68834,
+    "shoppingCart": []
+  },
+  {
+    "_id": {
+      "$oid": "662a6942e9713a78ab29140a"
+    },
+    "first_name": "Bad",
+    "last_name": "Pun",
+    "email": "bad.pun@example.com",
+    "address": "888 Groan St, Dad Joke City",
+    "password": "your_password_here",
+    "wallet": 59757,
+    "shoppingCart": []
+  },
+  {
+    "_id": {
+      "$oid": "662a6942e9713a78ab29140b"
+    },
+    "first_name": "Evil",
+    "last_name": "Kermit",
+    "email": "evil.kermit@example.com",
+    "address": "999 Temptation Ave, Inner Demon City",
+    "password": "your_password_here",
+    "wallet": 90853,
+    "shoppingCart": []
+  },
+  {
+    "_id": {
+      "$oid": "662a6942e9713a78ab29140c"
+    },
+    "first_name": "Distracted",
+    "last_name": "Boyfriend",
+    "email": "distracted.boyfriend@example.com",
+    "address": "121 Confusion Rd, Relationship Drama City",
+    "password": "your_password_here",
+    "wallet": 89530,
+    "shoppingCart": []
+  },
+  {
+    "_id": {
+      "$oid": "662a6942e9713a78ab29140d"
+    },
+    "first_name": "Y",
+    "last_name": "Tho",
+    "email": "y.tho@example.com",
+    "address": "234 Rhetorical St, Question City",
+    "password": "your_password_here",
+    "wallet": 46317,
+    "shoppingCart": []
+  }
+]
